@@ -335,22 +335,6 @@
                 <div class="project-card">
                     <div class="project-image">🌐</div>
                     <div class="project-content">
-                        <h3>Веб-платформа</h3>
-                        <p>Социальная платформа для обмена знаниями между разработчиками.</p>
-                        <div class="project-links">
-                            <a href="#" class="btn">Демо</a>
-                            <a href="#" class="btn">Код</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="project-card">
-                    <div class="project-image">🛠️</div>
-                    <div class="project-content">
-                        <h3>Библиотека компонентов</h3>
-                        <p>UI-библиотека с reusable компонентами для React.</p>
-                        <div class="project-links">
-                            <a href="#" class="btn">Демо</a>
-                            <a href="#" class="btn">Код</a>
                         </div>
                     </div>
                 </div>
@@ -361,11 +345,11 @@
         <section id="contact">
             <h2>Контакты</h2>
             <div class="contact-info">
-                <p>Эщкере</p>
+                <p>ссылки на мои контакты</p>
                 <div class="contact-links">
                     <a href="nvjhvh">📧 Mail</a>
                     <a href="https://github.com/Anastasya2012">💻 GitHub</a>
-                    <a href="https://telegram.com/shuuani">✈️ Telegram</a>
+                    <a href="https://t.me/shuuani">✈️ Telegram</a>
                 </div>
             </div>
         </section>
