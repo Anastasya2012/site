@@ -248,7 +248,7 @@
     <header>
         <div class="container">
             <!-- Замените src на ссылку на ваше реальное фото -->
-            <img src="https://github.com/Anastasya2012/site/blob/5e8cfe1ef6956043d2356fbcd654c7784967c9e6/photo.jpg" alt="Мое фото" class="profile-img">           
+            <img src="https://github.com/Anastasya2012/site/blob/39621a2f8089d27d089e77c9a4316e4b662583ab/photo3.jpg" alt="Мое фото" class="profile-img">           
             <h1>Иванова Анастасия</h1>
             <p class="tagline"> Начинающий Python-программист</p>
         </div>
