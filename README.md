@@ -251,7 +251,7 @@
             <!-- Замените src на ссылку на ваше реальное фото -->
             <img src="https://via.placeholder.com/150" alt="Мое фото" class="profile-img">
             <h1>Иванова Анастасия</h1>
-            <p class="tagline">Веб-разработчик | Python-программист</p>
+            <p class="tagline"> Начинающий Python-программист</p>
         </div>
     </header>
 
@@ -282,41 +282,6 @@
                 </div>
             </div>
         </section>
-
-        <!-- Skills Section -->
-        <section id="skills">
-            <h2>Мои навыки</h2>
-            <div class="skills-grid">
-                <div class="skill-category">
-                    <h3>Frontend</h3>
-                    <ul>
-                        <li>HTML5/CSS3</li>
-                        <li>JavaScript/TypeScript</li>
-                        <li>React/Vue.js</li>
-                        <li>Responsive Design</li>
-                    </ul>
-                </div>
-                <div class="skill-category">
-                    <h3>Backend</h3>
-                    <ul>
-                        <li>Python/Django</li>
-                        <li>Node.js/Express</li>
-                        <li>REST API</li>
-                        <li>Базы данных</li>
-                    </ul>
-                </div>
-                <div class="skill-category">
-                    <h3>Инструменты</h3>
-                    <ul>
-                        <li>Git/GitHub</li>
-                        <li>Docker</li>
-                        <li>Webpack</li>
-                        <li>VS Code</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-
         <!-- Projects Section -->
         <section id="projects">
             <h2>Мои проекты</h2>
@@ -332,12 +297,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="project-card">
-                    <div class="project-image">🌐</div>
-                    <div class="project-content">
-                        </div>
-                    </div>
-                </div>
             </div>
         </section>
 
@@ -345,7 +304,7 @@
         <section id="contact">
             <h2>Контакты</h2>
             <div class="contact-info">
-                <p>ссылки на мои контакты</p>
+                <p>Ссылки на мои контакты</p>
                 <div class="contact-links">
                     <a href="nvjhvh">📧 Mail</a>
                     <a href="https://github.com/Anastasya2012">💻 GitHub</a>
