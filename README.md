@@ -361,11 +361,10 @@
         <section id="contact">
             <h2>Контакты</h2>
             <div class="contact-info">
-                <p>Свяжитесь со мной для сотрудничества или просто поздоровайтесь!</p>
+                <p>Эщкере</p>
                 <div class="contact-links">
                     <a href="mailto:your.email@example.com">📧 Email</a>
                     <a href="https://github.com/yourusername">💻 GitHub</a>
-                    <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
                     <a href="https://t.me/yourusername">✈️ Telegram</a>
                 </div>
             </div>
@@ -375,7 +374,7 @@
     <!-- Footer -->
     <footer>
         <div class="container">
-            <p>© 2024 Иванова Анастасия. Все права защищены.</p>
+            <p>© 2025 Иванова Анастасия. Все права защищены.</p>
             <p>Сделано с ❤️ и GitHub Pages</p>
         </div>
     </footer>
