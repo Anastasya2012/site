@@ -9,7 +9,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-        img src="https://github.com/Anastasya2012/site/blob/5e8cfe1ef6956043d2356fbcd654c7784967c9e6/photo.jpg" alt="Мое фото" class="profile-img">
         body {
             font-family: 'Arial', sans-serif;
             line-height: 1.6;
@@ -249,7 +248,7 @@
     <header>
         <div class="container">
             <!-- Замените src на ссылку на ваше реальное фото -->
-            <img src="https://via.placeholder.com/150" alt="Мое фото" class="profile-img">
+            <img src="https://github.com/Anastasya2012/site/blob/5e8cfe1ef6956043d2356fbcd654c7784967c9e6/photo.jpg" alt="Мое фото" class="profile-img">           
             <h1>Иванова Анастасия</h1>
             <p class="tagline"> Начинающий Python-программист</p>
         </div>
