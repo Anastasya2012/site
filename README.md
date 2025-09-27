@@ -9,7 +9,7 @@
             padding: 0;
             box-sizing: border-box;
         }
-        img src="photo.jpg" alt="Мое фото" class="profile-img">
+        img src="https://github.com/Anastasya2012/site/blob/5e8cfe1ef6956043d2356fbcd654c7784967c9e6/photo.jpg" alt="Мое фото" class="profile-img">
         body {
             font-family: 'Arial', sans-serif;
             line-height: 1.6;
