@@ -363,9 +363,9 @@
             <div class="contact-info">
                 <p>Эщкере</p>
                 <div class="contact-links">
-                    <a href="mailto:your.email@example.com">📧 Email</a>
-                    <a href="https://github.com/yourusername">💻 GitHub</a>
-                    <a href="https://t.me/yourusername">✈️ Telegram</a>
+                    <a href="nvjhvh">📧 Mail</a>
+                    <a href="https://github.com/Anastasya2012">💻 GitHub</a>
+                    <a href="https://telegram.com/shuuani">✈️ Telegram</a>
                 </div>
             </div>
         </section>
