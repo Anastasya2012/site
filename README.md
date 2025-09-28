@@ -235,10 +235,10 @@
         <!-- About Section -->
         <section id="about">
             <h2>Обо мне</h2>
+            <img src="https://github.com/Anastasya2012/site/blob/39621a2f8089d27d089e77c9a4316e4b662583ab/photo3.jpg" alt="Мое фото"> 
             <div class="about-content">
                 <div class="about-text">
                     <p>Привет! Я начинающий Python-разработчик, который активно погружается в мир программирования. В настоящее время я изучаю язык Python.</p>
-                    <img src="https://github.com/Anastasya2012/site/blob/39621a2f8089d27d089e77c9a4316e4b662583ab/photo3.jpg" alt="Мое фото"> 
                     <br>
                     <p>Моя цель - стать профессиональным разработчиком и работать над интересными проектами. Мечтаю создавать полезные приложения, которые будут делать жизнь людей проще.</p>
                     <br>
