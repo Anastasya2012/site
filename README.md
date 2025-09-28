@@ -29,13 +29,16 @@
             padding: 80px 0;
             text-align: center;
         }
-
         .profile-img {
-            width: 150px;
-            height: 150px;
+            width: 200px;
+            height: 200px;
             border-radius: 50%;
             border: 5px solid white;
             margin-bottom: 20px;
+            object-fit: cover; /* Важно! Обрезает фото по кругу */
+            object-position: center; /* Центрирует фото */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            background-color: #f0f0f0; /* Фон если фото не загрузится */
         }
 
         h1 {
