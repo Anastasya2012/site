@@ -215,7 +215,7 @@
     <header>
         <div class="container">
             <!-- Замените src на ссылку на ваше реальное фото -->
-            <img src="images/photo3.jpg" alt="Мое фото" class="profile-img">           
+            <img src="images/image_animated.gif" alt="Мое фото" class="profile-img">           
             <h1>Иванова Анастасия</h1>
             <p class="tagline"> Начинающий Python-программист</p>
         </div>
