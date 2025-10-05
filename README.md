@@ -235,7 +235,7 @@
         <!-- About Section -->
         <section id="about">
             <h2>Обо мне</h2>
-            <img src="images/photo3.jpg" alt="Мое фото"> 
+ <!--           <img src="images/photo3.jpg" alt="Мое фото">  Пока не требуется. все фото должны лежать в папке images а не в корневом каталоге репы -->
             <div class="about-content">
                 <div class="about-text">
                     <p>Привет! Я начинающий Python-разработчик, который активно погружается в мир программирования. В настоящее время я изучаю язык Python.</p>
